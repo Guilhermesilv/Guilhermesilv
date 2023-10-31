@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Cursando Desenvolvimento de Sistemas 5/6<br>👯 Estou procurando uma oportunidade de aprendizado :)<br>
+🔭 Cursando Desenvolvimento de Sistemas 5/6<br>👯 Estou procurando uma oportunidade de aprendizado :)<br>🧑🏻‍🎨 Atualmente Web-Designer<br>
 
 
 ## 🌐 Socials:
