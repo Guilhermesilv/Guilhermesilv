@@ -15,5 +15,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/Guilhermesilv/Guilhermesilv/blob/output/github-contribution-grid-snake.svg)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
